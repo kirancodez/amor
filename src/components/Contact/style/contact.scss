@@ -1,0 +1,27 @@
+@import "../../../assets/css/variables";
+@import "../../../assets/css/mixin";
+
+.social-wrap {
+    ul {
+        display: flex;
+        margin-bottom: 4em;
+        justify-content: space-evenly;
+        @include md {
+            justify-content: space-between;
+        }
+        border: 2px solid $prime-colour;
+        padding: 18px;
+        border-radius: 10px;
+        li{
+            list-style: none;
+            a{
+                color: $prime-colour;
+                transition: 0.4s;
+                font-size: 3em;
+                &:hover {
+                    color: $scnd-colour;
+                }
+            }   
+        }
+    }
+}
