@@ -31,7 +31,7 @@ const Base = ({children}) => {
                 </div>
                 <div className="col-4 col-md-2 company">
                         <h6>Company</h6>
-                        <p><NavLink exact={true} activeClassName='is-active' to='/'>Home</NavLink></p>
+                        <p><NavLink exact={true} activeClassName='is-active' to='/amor'>Home</NavLink></p>
                         <p><NavLink exact={true} activeClassName='is-active' to='/about'>About us</NavLink></p>
                         <p><NavLink exact={true} activeClassName='is-active' to='/services'>Services</NavLink></p>
                         <p><NavLink exact={true} activeClassName='is-active' to='/contact-us'>Contact Us</NavLink></p>

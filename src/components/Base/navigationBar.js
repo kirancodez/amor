@@ -10,7 +10,7 @@ const Navigation = () => {
     return(
 
         <div className="container navigation__wrapper">
-            <NavLink exact={true} activeClassName='is-active' to='/'><img src={logo} /></NavLink>
+            <NavLink exact={true} activeClassName='is-active' to='/amor'><img src={logo} /></NavLink>
             
             <a href="#" className="toggle-button" onClick={() => {setNavigation(!navigation)}}>
                 <span className="bar" />
@@ -19,7 +19,7 @@ const Navigation = () => {
             </a>
             <nav>
                 <ul className={navigation ? "active" : ""} ref={active} >
-                    <NavLink exact={true} activeClassName='is-active' to='/'>Home</NavLink>
+                    <NavLink exact={true} activeClassName='is-active' to='/amor'>Home</NavLink>
                     <NavLink exact={true} activeClassName='is-active' to='/about'>About us</NavLink>
                     <NavLink exact={true} activeClassName='is-active' to='/services'>Services</NavLink>
                     <NavLink exact={true} activeClassName='is-active' to='/contact-us'>Contact Us</NavLink>

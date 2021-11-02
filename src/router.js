@@ -16,7 +16,7 @@ import Services from "./components/Services/Services";
 const Router = () => {
     return(
         <BrowserRouter>
-            <Route path="/" exact component={Home} />
+            <Route path="/amor" exact component={Home} />
             <Route path="/about" exact component={About} />
             <Route path="/services" exact component={Services} />
             <Route path="/service/medical-transcription" exact component={meadicalTranscription} />
