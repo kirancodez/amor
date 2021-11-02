@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/amor/static/css/main.c58c3877.chunk.css",
+    "main.js": "/amor/static/js/main.1bca15db.chunk.js",
+    "main.js.map": "/amor/static/js/main.1bca15db.chunk.js.map",
+    "runtime-main.js": "/amor/static/js/runtime-main.1ceec9c1.js",
+    "runtime-main.js.map": "/amor/static/js/runtime-main.1ceec9c1.js.map",
+    "static/js/2.159246a2.chunk.js": "/amor/static/js/2.159246a2.chunk.js",
+    "static/js/2.159246a2.chunk.js.map": "/amor/static/js/2.159246a2.chunk.js.map",
+    "index.html": "/amor/index.html",
+    "static/css/main.c58c3877.chunk.css.map": "/amor/static/css/main.c58c3877.chunk.css.map",
+    "static/js/2.159246a2.chunk.js.LICENSE.txt": "/amor/static/js/2.159246a2.chunk.js.LICENSE.txt",
+    "static/media/1.061908c1.png": "/amor/static/media/1.061908c1.png",
+    "static/media/banner.ba77b100.jpg": "/amor/static/media/banner.ba77b100.jpg",
+    "static/media/cal_center.5997e355.jpg": "/amor/static/media/cal_center.5997e355.jpg",
+    "static/media/coding.78f54a22.jpg": "/amor/static/media/coding.78f54a22.jpg",
+    "static/media/coding.c770d22c.png": "/amor/static/media/coding.c770d22c.png",
+    "static/media/contact.e18edfdf.png": "/amor/static/media/contact.e18edfdf.png",
+    "static/media/contactus.8074b916.jpg": "/amor/static/media/contactus.8074b916.jpg",
+    "static/media/development.fe8dc582.jpg": "/amor/static/media/development.fe8dc582.jpg",
+    "static/media/doc.a12639ef.png": "/amor/static/media/doc.a12639ef.png",
+    "static/media/loading.4692549c.gif": "/amor/static/media/loading.4692549c.gif",
+    "static/media/logo.3e0640ea.png": "/amor/static/media/logo.3e0640ea.png",
+    "static/media/scribing.7f68e630.jpg": "/amor/static/media/scribing.7f68e630.jpg",
+    "static/media/transcript.d3b2e50f.jpg": "/amor/static/media/transcript.d3b2e50f.jpg",
+    "static/media/u1.9cbd7b4e.jpg": "/amor/static/media/u1.9cbd7b4e.jpg",
+    "static/media/u2.7b45799c.jpg": "/amor/static/media/u2.7b45799c.jpg",
+    "static/media/u3.098ba4de.jpg": "/amor/static/media/u3.098ba4de.jpg",
+    "static/media/u4.37632d0a.jpg": "/amor/static/media/u4.37632d0a.jpg",
+    "static/media/u5.0f57cef3.jpg": "/amor/static/media/u5.0f57cef3.jpg",
+    "static/media/users.e7861502.png": "/amor/static/media/users.e7861502.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ceec9c1.js",
+    "static/js/2.159246a2.chunk.js",
+    "static/css/main.c58c3877.chunk.css",
+    "static/js/main.1bca15db.chunk.js"
+  ]
+}
